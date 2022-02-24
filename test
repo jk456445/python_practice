@@ -1,0 +1,10 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+stock = np.array([271.5, 275.5, 283, 285, 283,
+                  279.5, 278.5, 285, 287.5, 286.5,
+                  306.5, 304, 295, 294, 295.5,
+                  294, 298, 296.5, 299, 304.5])
+
+plt.plot(stock) #畫線
+plt.show() #印出來
