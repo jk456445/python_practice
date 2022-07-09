@@ -1,4 +1,2 @@
-# hello-world
-test
-test for branch
-☕
+#這是練習python的資料夾
+裡面包含在網路上練習python以及政大炎龍老師的練習
